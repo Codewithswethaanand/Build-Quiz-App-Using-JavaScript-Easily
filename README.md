@@ -2,10 +2,11 @@
 <html lang="en">
 <body>
 
-  <h1 align="center">Quiz App using JavaScript</h1>
+  <h1>
+How To Make Quiz App Using JavaScript | Build Quiz App With HTML CSS & JavaScript
+  </h1>
   <p>
-    A simple and interactive Quiz Application built using <b>HTML, CSS, and JavaScript</b>.<br>
-    Users can answer questions and see their score instantly.
+    A simple and interactive Quiz Application built using HTML, CSS, and JavaScript.Users can answer questions and see their score instantly.
   </p>
   <h2 >Live Demo</h2>
 
