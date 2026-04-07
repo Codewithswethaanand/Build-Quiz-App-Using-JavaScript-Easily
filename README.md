@@ -25,7 +25,9 @@ A simple and interactive Quiz Application built using **HTML, CSS, and JavaScrip
 ---
 
 ## 📷 Preview
-![Quiz App](Screenshot 2026-04-07 at 12.43.34.png)
+<p align="center">
+  <img src="Screenshot 2026-04-07 at 12.43.34.png" width="500"/>
+</p>
 
 ---
 
