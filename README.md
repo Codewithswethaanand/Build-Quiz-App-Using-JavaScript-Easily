@@ -3,8 +3,7 @@
 <body>
 
   <h1>
-How To Make Quiz App Using JavaScript | Build Quiz App With HTML CSS & JavaScript
-  </h1>
+How To Make Quiz App Using JavaScript 
   <p>
     A simple and interactive Quiz Application built using HTML, CSS, and JavaScript.Users can answer questions and see their score instantly.
   </p>
