@@ -1,19 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Quiz App</title>
-</head>
 <body>
 
   <h1 align="center">Quiz App using JavaScript</h1>
-  <p align="center">
+  <p>
     A simple and interactive Quiz Application built using <b>HTML, CSS, and JavaScript</b>.<br>
     Users can answer questions and see their score instantly.
   </p>
-  <h2 align="center">Live Demo</h2>
+  <h2 >Live Demo</h2>
 
-  <p align="center">
+  <p>
     <a href="https://build-quiz-app-using-java-script-ea.vercel.app/" target="_blank">
       <img src="Screenshot 2026-04-07 at 12.43.34.png" width="600" alt="Quiz App Preview"/>
     </a>
@@ -33,8 +29,8 @@
     <li>JavaScript</li>
   </ul>
 
-  <h2 align="center">Preview</h2>
-  <p align="center">
+  <h2>Preview</h2>
+  <p>
     <img src="Screenshot 2026-04-07 at 12.43.34.png" width="500" alt="Quiz App Screenshot"/>
   </p>
   <h2>Author</h2>
