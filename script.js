@@ -51,3 +51,27 @@ const questions = [
 const questionElement = document.getElementById("question");
 const answerElement = document.getElementById("answer-buttons");
 const nextButton = document.getElementById("next-btn");
+
+let currentquestionIndex = 0;
+let score = 0;
+
+function startQuiz(){
+    currentquestionIndex = 0;
+    score =0;
+    nextButton.innerHTML = "Next"
+    showQuestion();
+}
+
+function showQuestion(){
+    let currentquestion = questions[currentquestionIndex];
+    let questionNo = currentquestionIndex + 1;
+    questionElement.innerHtml =questionNo + "." + currentquestion.question;
+/*Display the answer*/
+currentQuestion.answers.forEach(answer => {
+ const button = document.createElement("button");
+ button.innerHTML = answer.text;
+ button.classList.add("btn");
+ answerButton.appendChild(button)   
+});
+
+}
